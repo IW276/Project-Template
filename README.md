@@ -46,7 +46,7 @@ python src/demo.py --model model/student-jetson-model.pth --video 0
 
 This repo is based on
   - [Source 1](https://github.com/)
-  - [Source 2(https://github.com/)
+  - [Source 2](https://github.com/)
 
 Thanks to the original authors for their work!
 
