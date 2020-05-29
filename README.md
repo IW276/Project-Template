@@ -1,4 +1,4 @@
-# Project-Template for IWS 276 Labor
+# Project-Template for IW276 Autonome Systeme Labor
 
 Short introduction to project assigment.
 
