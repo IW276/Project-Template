@@ -7,7 +7,7 @@ Short introduction to project assigment.
   Link to Demo Video
 </p>
 
-> This work was done by Autor 1, Autor2, Autor 3 during the IWI276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlruhe - Technik und Wirtschaft) in SS 2020. 
+> This work was done by Autor 1, Autor2, Autor 3 during the IW276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlruhe - Technik und Wirtschaft) in SS 2020. 
 
 ## Table of Contents
 
