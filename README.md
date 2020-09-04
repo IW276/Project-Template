@@ -7,7 +7,7 @@ Short introduction to project assigment.
   Link to Demo Video
 </p>
 
-> This work was done by Autor 1, Autor2, Autor 3 during the IW276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlruhe - Technik und Wirtschaft) in SS 2020. 
+> This work was done by Autor 1, Autor2, Autor 3 during the IW276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlruhe - Technik und Wirtschaft) in WS 2020 / 2021. 
 
 ## Table of Contents
 
@@ -18,10 +18,10 @@ Short introduction to project assigment.
 * [Acknowledgments](#acknowledgments)
 
 ## Requirements
-* Python 3.7 (or above)
-* OpenCV 4.0 (or above)
-* Jetson Nano | Jetson TX2
-* Jetpack 4.2
+* Python 3.6 (or above)
+* OpenCV 4.1 (or above)
+* Jetson Nano
+* Jetpack 4.4
 > [Optional] ...
 
 ## Prerequisites
@@ -41,6 +41,9 @@ To run the demo, pass path to the pre-trained checkpoint and camera id (or path 
 python src/demo.py --model model/student-jetson-model.pth --video 0
 ```
 > Additional comment about the demo.
+
+## Docker
+HOW TO
 
 ## Acknowledgments
 
